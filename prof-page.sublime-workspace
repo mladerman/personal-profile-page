@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"init",
+				"initEventListeners"
+			],
+			[
+				"ren",
+				"renderDetailPage"
+			],
+			[
+				"get",
+				"getArticle"
+			],
+			[
+				"tex",
+				"text	text-align: left/center/right"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"create",
+				"create_SQL_tables"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"text",
+				"text	text-indent: length"
+			],
+			[
+				"display",
+				"display	display: table-types"
+			],
+			[
+				"fon",
+				"font	font-family: family"
+			],
+			[
+				"dis",
+				"display	display: inline"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5565,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 206.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"back",
+			"header-background",
+			"detail",
+			"blog",
+			"loading",
+			"brewery_crawl",
+			"background",
+			"interests",
+			"px",
+			"hover",
+			"-content",
+			"hide",
+			"print(\"Scrapping #\"+str(i)+\".\")",
+			"sample",
+			"app_info",
+			"app",
+			"cloud",
+			"app",
+			"app_site",
+			"site",
+			"soup_site",
+			"links_file",
+			"sample",
+			"except",
+			"exce",
+			"a float",
+			"error",
+			"type",
+			"read_in",
+			"Soup",
+			"sleep",
+			"save",
+			"navbar",
+			"html",
+			"100%",
+			"half",
+			"map_canvas",
+			"false",
+			"map",
+			"fluid",
+			"map",
+			"csv",
+			"sleep",
+			".get",
+			"'href'",
+			"href",
+			"get",
+			"soup",
+			"center",
+			"background",
+			"span",
+			"my-content",
+			"div",
+			"text-align",
+			"p{",
+			"skills",
+			"h1",
+			"img",
+			"background",
+			"embed",
+			"class=\"column\"",
+			"hover",
+			"#name-bar",
+			"name-bar",
+			"padding",
+			"about-me-cont",
+			"about-me-content",
+			"Product",
+			"te",
+			"100%); /",
+			"100%);",
+			".65",
+			"about-me",
+			"absolute",
+			"column",
+			"id=\"column",
+			"name-",
+			"avatar",
+			"          <",
+			"> |",
+			"<a href=\"http://twitter.com/mbltoo\">Twitter</a> |",
+			"hover",
+			".png",
+			"hover",
+			"update_state_url",
+			"update_s",
+			"next_page",
+			"location",
+			"s_id",
+			"next",
+			"s_id",
+			"parse_qs",
+			"next",
+			"for i in brewery_crawl(next_page(table)):",
+			"close",
+			"Return false",
+			"return Fa",
+			"has_beers",
+			"read_in",
+			"parse",
+			"sleep",
+			"brewery_urls",
+			"file_name",
+			"log_name",
+			"log",
+			"read",
+			"readline",
+			"soup_site",
+			"brewery_links",
+			"site_open",
+			"site",
+			"<p>",
+			"/p>",
+			"<p",
+			"float",
+			"20px",
+			";",
+			"id",
+			"radio",
+			"checkbox"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"site"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 5565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"/volumes",
+				"/Volumes/PYTHON!/Practice/Beer Advocate/BeerAdvocateScrape-2.py"
+			],
+			[
+				"",
+				"/Volumes/PYTHON!/Practice/Beer Advocate/BeerAdvocateScrape-2.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
