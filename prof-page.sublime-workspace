@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
 				"init",
 				"initEventListeners"
 			],
@@ -40,10 +52,6 @@
 				"connect"
 			],
 			[
-				"text",
-				"text	text-indent: length"
-			],
-			[
 				"display",
 				"display	display: table-types"
 			],
@@ -59,14 +67,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 5565,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -92,6 +92,10 @@
 	},
 	"file_history":
 	[
+		"/Users/Michael/Desktop/Github Projects/personal-profile-page/profile_stylesheet.css",
+		"/Users/Michael/Desktop/Github Projects/personal-profile-page/index.html",
+		"/Users/Michael/Desktop/Github Projects/personal-profile-page/profile_javascript.js",
+		"/Users/Michael/Desktop/Github Projects/personal-profile-page/raphael.js"
 	],
 	"find":
 	{
@@ -109,6 +113,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"span",
+			"interests",
+			"li",
+			"contact",
+			"contact me",
+			"linked",
+			"@-webkit-keyframes appear /* Safari and Chrome */\n{\n  from {opacity:0;\n  }\n  to {opacity:1;\n  }\n}",
+			"hide",
+			"skills-content",
+			"skill-set",
+			"clear",
+			"skills",
+			"h2",
 			"back",
 			"header-background",
 			"detail",
@@ -223,12 +240,7 @@
 			"<p>",
 			"/p>",
 			"<p",
-			"float",
-			"20px",
-			";",
-			"id",
-			"radio",
-			"checkbox"
+			"float"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -247,37 +259,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 5565,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

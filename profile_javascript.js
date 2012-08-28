@@ -16,7 +16,7 @@ $(document).ready(function(){
         var section = sections[i];
         var image = images[i];
         if (new_id === $(section).attr('id')){
-          $(section).removeClass('hide');
+          $(section).removeClass('hide')
           $(image).addClass('active');
         } else{
           $(section).addClass('hide');
@@ -26,7 +26,33 @@ $(document).ready(function(){
       
       
     });
+
+var circles = function(){
+  var x = 845;
+  var y = 150;
+
+  var radius = 210;
+  var paper = Raphael(document.getElementById("venn-diagram"), radius*4-x/5, radius*2);
+
+  // Creates circle at x = 50, y = 40, with radius 10
+
+  var circle1 = paper.circle(radius, radius, radius);
+  var circle2 = paper.circle(3*radius-x/5, radius, radius);
+  // Sets the fill attribute of the circle to red (#f00)
+  circle1.attr("fill", "#3ba4db");
+  circle2.attr("fill", "#ffa53a");
+
+  // Sets the stroke attribute of the circle to white
+  // circle1.attr("stroke", "#3ba4db");
+  // circle2.attr("stroke", "#ffa53a");
+}
+    $('#interests').on("click",function(){
+      var c = $("circle");
+      if (c.length > 0){
+        return null
+      }else{
+        circles();
+      }
+    });
   });
-
-
 
